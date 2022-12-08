@@ -1,0 +1,8 @@
+C:\Users\andre\OneDrive\Desktop\Домашки\Тестирование2\Salesman2\Salesman2\bin\Debug\Salesman2.exe.config
+C:\Users\andre\OneDrive\Desktop\Домашки\Тестирование2\Salesman2\Salesman2\bin\Debug\Salesman2.exe
+C:\Users\andre\OneDrive\Desktop\Домашки\Тестирование2\Salesman2\Salesman2\bin\Debug\Salesman2.pdb
+C:\Users\andre\OneDrive\Desktop\Домашки\Тестирование2\Salesman2\Salesman2\obj\Debug\Salesman2.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Домашки\Тестирование2\Salesman2\Salesman2\obj\Debug\Salesman2.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Desktop\Домашки\Тестирование2\Salesman2\Salesman2\obj\Debug\Salesman2.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Домашки\Тестирование2\Salesman2\Salesman2\obj\Debug\Salesman2.exe
+C:\Users\andre\OneDrive\Desktop\Домашки\Тестирование2\Salesman2\Salesman2\obj\Debug\Salesman2.pdb
